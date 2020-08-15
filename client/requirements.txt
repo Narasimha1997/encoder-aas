@@ -1,0 +1,2 @@
+pyzmq==19.0.2
+git+https://github.com/d2gex/pubsub-zmq.git@0.1.1#egg=pubsub-zmq
